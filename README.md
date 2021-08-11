@@ -1,4 +1,4 @@
-# Bases
+# GifsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
@@ -25,3 +25,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/47207c31-9103-4836-9ac3-c5b4c41076c4/deploy-status)](https://app.netlify.com/sites/buscador-gif/deploys)
